@@ -1,0 +1,170 @@
+
+Stai parlando con Diego
+Ciao sono LEO, l'assistente virtuale di EOLOOperatore
+12:39:38
+Di quale assistenza hai bisogno?Operatore
+12:39:40
+TecnicaTu
+12:39:42
+Se vuoi posso aiutarti sui seguenti argomenti:Operatore
+12:39:44
+EOLO VoceTu
+12:39:45
+Come posso esserti utile in merito al servizio EOLO Voce?Operatore
+12:39:46
+Non ricevo chiamateTu
+12:39:48
+Mi risulta che hai più ordini apertiOperatore
+12:39:50
+Inserisci il numero dell'ordine sul quale vuoi controllare lo stato della linea dall'elenco di seguito:
+0) Intervento causa guasto - Ceppo Morelli
+1) EOLO Casa 0 Limiti - Ceppo MorelliOperatore
+12:39:52
+0Tu
+12:39:57
+1Tu
+12:40:28
+Hai già provato a fare un riavvio del tuo EOLObox?Operatore
+12:40:30
+SìTu
+12:40:34
+Adesso prova a collegare un altro telefono (classico via cavo, no cordless) alla porta 1 del tuo EOLOboxOperatore
+12:40:36
+E' ancora presente il problema?Operatore
+12:40:38
+SìTu
+12:40:41
+Non sono ancora molto preparato su questo argomento, ma imparerò presto!Operatore
+12:40:44
+Preferisci parlare subito via chat con un operatore o aprire un ticket dalla tua Area Cliente?Operatore
+12:40:44
+OperatoreTu
+12:40:46
+Passo subito questa chat al mio collega che ti aiuterà, a presto!Operatore
+12:40:48
+ Trasferimento concluso, tra un attimo sarai di nuovo in contatto con un operatore.
+Benvenuto in EOLO! Come posso esserti utile?Operatore
+12:41:13
+Buongiorno, come posso esserle utile?Operatore
+12:41:14
+SalveTu
+12:42:13
+Sempre 0324890221Tu
+12:42:18
+Mi puo rispiegare la situazione per favore ?Tu
+12:42:28
+Mi ha detto prima che hanno dismesso la cella a cui fa riferimento il numeroTu
+12:42:46
+Cosa vuol dire e quando verra ristabilito il servizio ?Tu
+12:42:59
+E' stata data una notifica a mia mamma ?Tu
+12:43:19
+che il tecnico deve intervenire a casa di sua mamma per montare una nuova antenna su un nuovo ripetitoreOperatore
+12:43:46
+per andare a riprisitnare in maniera definitiva il problemaOperatore
+12:44:00
+si una mailOperatore
+12:44:06
+Di questo ci era stata mandata conferma ma non a seguito di un guastoTu
+12:44:12
+A dir la verita quello che dice non e' correttoTu
+12:44:27
+La mail che ci avete mandato era stata mandata in modo preventivo non a seguito di un guasto riportato da noiTu
+12:44:49
+mi dica lei allora cosa è correttoOperatore
+12:44:50
+infatti io non ho detto che è un guasto riportato da voiOperatore
+12:45:06
+ma hanno dsmesso la cellaa cui facevate riferimento dato che era vecchia e non funzionava correttamente sostituendola con una nuovaOperatore
+12:45:38
+Mia mamma ha 80 anni - sarebbe possibile richiedere l'intervento piu presto di Venerdi ?Tu
+12:46:29
+Non ha connessione da Lunedi a quanto mi risultaTu
+12:46:47
+5 giorni mi sembrano eccessiviTu
+12:46:53
+no non è possibile fare intervenire prima il tecnicoOperatore
+12:47:02
+Mi puo spiegare perche non e' possibile ?Tu
+12:47:25
+perchè il tecnico ha fissato un appuntamento per quella data e ha disponibilità quel giorno non altri pperchè ha altri appuntamentiOperatore
+12:48:01
+Quindi lei ha accesso all'agenda del tecnico ?Tu
+12:49:11
+La mancanza di servizio verra' scontata in qualche modo dalla sottoscrizione di questo mese ?Tu
+12:49:58
+io ho letto ciò che c'è scritto nella segnalazione apertaOperatore
+12:50:04
+si deve richiedere alla parte amministrativa un rimborsoOperatore
+12:50:16
+Allora la prego di mettermi in contatto con qualcuno a cui io possa chiedere delucidazioni sulla possiblita di fissare un appuntamento piu prestoTu
+12:50:59
+non la si può mettere in contatto con nessuno, può solo aspettare l'arrivo del tecnicoOperatore
+12:51:47
+Mi scusi ? Vorrei parlare con un supervisoreTu
+12:52:07
+non è possibileOperatore
+12:52:48
+Perche ?Tu
+12:52:54
+perchè se no tutti i clienti dovrebbero parlare con un supervisoreOperatore
+12:53:14
+e comunque le direbbe le stesse cose che le sto dicendo ioOperatore
+12:53:28
+Se lei non ha gli strumenti per rispondere alle domande dei clienti dovrebbe essere messo in grado di far rifermineto a un supervisore per aiurtarlaTu
+12:53:30
+Lei non mi sta aiutando in modo soddisfacente - e quindi vorrei parlare con il suo direttoTu
+12:54:02
+io le ho dato tutte le risposte possibiliOperatore
+12:54:14
+altro non c'èOperatore
+12:54:18
+Il comunque e le direbbe sono considerazioni che faccio ioTu
+12:54:19
+Purtroppo noTu
+12:54:25
+non è possibile fare altroOperatore
+12:54:44
+Anzi trovo il suo tono dall'inizio molto scurrile - come se fosse lei a pagare noiTu
+12:54:49
+Le ricordo che mia mamma e' il cliente che paga l'azienda per cui lei lavoro, e che le paga lo stipendioTu
+12:55:14
+A meno che lei non venga pagato da qualcun'altro nel caso in cui capisco che non sia suo interesse offrire un servizio eccellenteTu
+12:55:43
+ma che tono scusi ? le sto rispondendo in maniera molto gentileOperatore
+12:55:50
+non siamo qui a paralre di chi da soldi a chiOperatore
+12:56:08
+Putroppo no - vada a vedere l'inizio della conversazione.Tu
+12:56:09
+Putroppo si - noi paghiamo per il servizio non ci viene dato gratisTu
+12:56:28
+allora mi scusi per i toni non coerenti e corretti nei suoi confrontiOperatore
+12:56:40
+Le scuse a posteriori purtroppo fanno pocoTu
+12:56:57
+Mia mamma non ha ancora il servizio , e ha spesso avuto problemi in precedenza.Tu
+12:57:15
+altro non posso fare allora sia per una cosa che per l'altraOperatore
+12:57:17
+Vorrei parlare con un supervisore - le ho dato tutti i motivi per potermi connettere a uno di questiTu
+12:57:34
+infatti interverrà un tecnico per risolvere il problemaOperatore
+12:57:39
+non c'è questa possibilitàOperatore
+12:57:50
+Io vorrei parlare con un supervisore per discutere dei vosri metodi di customer service.Tu
+12:58:00
+non è possibileOperatore
+12:58:20
+faccia un ticket dall'area clienti a questo puntoOperatore
+12:58:31
+Perfetto - mandero' copia di questa comunicazione al vostro management.Tu
+12:58:45
+posso essere d'aiuto in altro modo ?Operatore
+12:59:16
+Si , vorrei che mi connetta ad un supervisore , e che mi dia la possibilita di parlare con il tecnico per verificare se puo intervenire prima della data gia' stabilitaTu
+13:00:04
+Grazie per aver contattato EOLO, restiamo a sua completa disposizione.
+Scrivi qui...
+
